@@ -1,6 +1,7 @@
 (footprint "2x22_2mm_border_conn" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (solder_paste_ratio -0.5)
   (attr smd)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))

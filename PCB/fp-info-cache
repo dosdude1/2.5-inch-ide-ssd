@@ -1,4 +1,4 @@
-20521107345571744
+20522840693711268
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86155,6 +86155,13 @@ BGA-144_12x12_9.0x9.0mm
 0
 144
 144
+cust
+BGA-152_14x18mm_Layout13x17_P0.5mm
+BGA-152_14x18mm_Layout13x17_P0.5mm
+VBGA-152
+0
+152
+152
 cust
 WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm
 WSON, 6 Pin (http://www.ti.com/lit/ds/symlink/tps61040.pdf#page=35), generated with kicad-footprint-generator ipc_noLead_generator.py
